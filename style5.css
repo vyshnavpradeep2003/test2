@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h4{
+    padding-right: 100px;
+}
+#i2
+{
+    margin-left: -80px;
+}
+#i1
+{
+    background-color: green;
+    width: 200px;
+    height: 30px;
+    color: white;
+}
+#i3{
+    background-color: red;
+    color: white;
+    margin-left: 0px;
+}
+#i4{
+    margin-left: 150px;
+    color: rgb(0, 0, 0);
+}
+.active{
+    background-color: rgb(235, 235, 235);
+    height: 30px;
+    margin: auto;
+    width: 350px;
+}

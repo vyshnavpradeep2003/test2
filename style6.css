@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(124, 7, 33);
+    text-align: center;
+    margin:auto;
+    width: 50%;
+    color: white;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+td{
+    padding: 5px;
+}
+body{
+    text-align: center;
+    padding-top: 150px;
+    background-color: rgb(141, 4, 34);
+}
+#i1{
+    width: 50%;
+    height: 20%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}

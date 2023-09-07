@@ -1,0 +1,32 @@
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: rgb(223, 226, 50) }
+  .c1 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+   li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  a{
+    text-decoration: none;
+    color: blue }
+#i1{
+    line-height: 0;
+}
+#i2{
+    font-style: italic;
+    line-height: 0;
+}

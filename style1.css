@@ -1,0 +1,40 @@
+.vertical-menu{
+    background-color: rgb(95, 147, 172);
+    width: 140px;
+}
+.vertical-menu a{
+    display: block;
+    color: blue;
+    padding: 0px;
+    font-size: xx-large;
+    background-color: rgb(95, 147, 172);
+    width: 140px;
+}
+.vertical-menu a.active{
+    background-color: rgb(245, 170, 100);
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    width: 140px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    width: 400px;
+}
+li{
+    float:left;
+}
+li a{
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.active1{
+    background-color: rgb(85, 83, 83);
+    color: white
+}
